@@ -1,0 +1,13 @@
+.footerNavItem {
+   padding: 7px 25px;
+   text-transform: capitalize;
+   transition: all .3s ease;
+   color: gray;
+   cursor: pointer;
+}
+
+.footerNavItem:hover {
+   transition: all .3s ease;
+   text-decoration: dashed;
+   color: #0099ff;
+}

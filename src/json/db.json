@@ -1,0 +1,75 @@
+{
+   "navbar": [
+      {
+         "id": "1",
+         "name": "home"
+      },
+      {
+         "id": "2",
+         "name": "about us"
+      },
+      {
+         "id": "3",
+         "name": "news"
+      },
+      {
+         "id": "5",
+         "name": "contact"
+      }
+   ],
+   "about": {
+      "name": "About us",
+      "txt": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+   },
+   "games": {
+      "name": "News",
+      "txt": [
+         {
+            "id": "0",
+            "header": "New DLC Cyberpunk 2077",
+            "content": "New update 1.7 will be added in 2023",
+            "date": "11/10"
+         },
+         {
+            "id": "1",
+            "header": "The Witcher 3 NEXT GEN",
+            "content": "The Witcher 3 next gen update will appear by the end of the year 2022",
+            "date": "09/10"
+         },
+         {
+            "id": "2",
+            "header": "Dying Light 2",
+            "content": "a complete walkthrough of the game will take about 500 hours",
+            "date": "09/10"
+         },
+         {
+            "id": "3",
+            "header": "Saints Row 2022",
+            "content": "Saints Row has sold over one million copies",
+            "date": "08/10"
+         },
+         {
+            "id": "4",
+            "header": "Hogwarts Legacy",
+            "content": "Initial release date: February 7, 2023",
+            "date": "06/10"
+         },
+         {
+            "id": "5",
+            "header": "Need for Speed Unbound",
+            "content": "Gameplay trailer for Need for Speed Unbound will be shown tomorrow",
+            "date": "04/10"
+         }
+      ]
+   },
+   "footer": {
+      "header": "Contact",
+      "input": {
+         "name": "Name",
+         "mail": "E-mail",
+         "phone": "Phone",
+         "mess": "Message",
+         "submit": "Submit"
+      }
+   }
+}

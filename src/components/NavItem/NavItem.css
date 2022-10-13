@@ -1,0 +1,20 @@
+.navItem {
+   padding: 7px 25px;
+   text-transform: uppercase;
+   transition: all .3s ease;
+   display: block;
+   font-size: 12pt;
+   border-radius: 50px;
+}
+
+.navItem:hover {
+   background: linear-gradient(90deg, #00b7ff, #307ae2);
+   border-radius: 12px;
+   transition: all .3s ease;
+}
+
+@media screen and (max-width: 800px) {
+   .navItem {
+      font-size: 9pt;
+   }
+}

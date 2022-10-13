@@ -1,0 +1,32 @@
+.gameCard {
+   width: 300px;
+   margin: 10px 10px 10px 0;
+   padding: 10px;
+   transition: all .3s ease;
+}
+
+.gameCard:hover {
+   transition: all .3s ease;
+   background: rgb(43, 43, 43);
+   transform: scale(1.05);
+   border-radius: 4px;
+}
+
+.gameCard img {
+   width: 100%;
+   border-radius: 4px;
+}
+
+.gameCard h2 {
+   font-size: 16pt;
+   margin: 0;
+}
+
+.gameCard p {
+   margin: 10px 0;
+}
+
+.gameCard span {
+   font-size: 10pt;
+   color: gray;
+}
