@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/github.io/shahnazaryan0330/firstapp/static/css/main.06018e56.css",
+    "main.js": "/github.io/shahnazaryan0330/firstapp/static/js/main.167ca745.js",
+    "static/media/background.jpg": "/github.io/shahnazaryan0330/firstapp/static/media/background.280c144c5d4351aa7ea9.jpg",
+    "static/media/Roboto-Thin.ttf": "/github.io/shahnazaryan0330/firstapp/static/media/Roboto-Thin.a732a12eb07742232407.ttf",
+    "static/media/Roboto-Regular.ttf": "/github.io/shahnazaryan0330/firstapp/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/Monoton-Regular.ttf": "/github.io/shahnazaryan0330/firstapp/static/media/Monoton-Regular.1f3bd420f1198c5c85e8.ttf",
+    "static/media/squar.png": "/github.io/shahnazaryan0330/firstapp/static/media/squar.8fdd102bd65b3c69acf9.png",
+    "static/media/triangle.png": "/github.io/shahnazaryan0330/firstapp/static/media/triangle.c82f63a2b8679e14a888.png",
+    "static/media/blob.svg": "/github.io/shahnazaryan0330/firstapp/static/media/blob.3064d9116f3da4549bee.svg",
+    "index.html": "/github.io/shahnazaryan0330/firstapp/index.html",
+    "main.06018e56.css.map": "/github.io/shahnazaryan0330/firstapp/static/css/main.06018e56.css.map",
+    "main.167ca745.js.map": "/github.io/shahnazaryan0330/firstapp/static/js/main.167ca745.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06018e56.css",
+    "static/js/main.167ca745.js"
+  ]
+}
